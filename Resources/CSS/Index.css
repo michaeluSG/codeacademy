@@ -1,0 +1,35 @@
+#Dasmoto{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(/Users/michaelulryck/Desktop/git-101/Codecademy_HTML/Dasmoto/Resources/Images/pattern.jpeg);
+}
+
+.title.brushes{
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-family:Helvetica;
+  font-weight: bold;
+}
+
+.title.frames{
+  background-color: lightcoral;
+  font-size: 32px;
+  font-family:Helvetica;
+  font-weight: bold;
+}
+
+.title.paint{
+  background-color: skyblue;
+    font-size: 32px;
+    font-family:Helvetica;
+    font-weight: bold;
+}
+
+.price{
+  font-weight: bold;
+  font-family: helvetica;
+  color: blue;
+}
